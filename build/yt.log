@@ -1,0 +1,66 @@
+287 discos, 287 por buscar
+NADA Ted Nugent Free-for-All  →  
+NADA Iron Maiden Genghis Khan  →  
+NADA Iron Maiden The Number of the Beast  →  
+NADA Iron Maiden Run to the Hills  →  
+NADA Stryper To Hell with the Devil  →  
+NADA Saxon We Came Here to Rock  →  
+NADA Vixen Vixen  →  
+NADA Judas Priest Ram It Down  →  
+NADA Scorpions World Wide Live  →  
+NADA Black Sabbath War Pigs  →  
+NADA Ozzy Osbourne I Don’t Know  →  
+NADA AC/DC Big Balls  →  
+NADA Scorpions Virgin Killer  →  
+NADA Grim Reaper See You in Hell  →  
+NADA Emperor Anthems to the Welkin at Dusk  →  
+NADA Candlemass Epicus Doomicus Metallicus  →  
+NADA S.O.D. Speak English or Die  →  
+DUDOSO Saxon|Party Til You Puke → Party Til You Puke / PlanetSaxon
+DUDOSO Saxon|Rock the Nation → Rock the Nations (2010 - Remaster) / PlanetSaxon
+DUDOSO Judas Priest|Sin After Sin → Judas Priest - Dissident Aggressor (Official Audio) / Judas Priest
+DUDOSO AC/DC|Powerage → Gimme a Bullet / AC/DC
+DUDOSO Saxon|Denim and Leather → Denim and Leather / PlanetSaxon
+DUDOSO Motörhead|No Sleep at All → Doctor Rock (Live) / Motörhead Official
+DUDOSO Guns N’ Roses|Appetite for Destruction → Out Ta Get Me / Guns N' Roses
+DUDOSO Ozzy Osbourne|Blizzard of Ozz → I Don't Know / Ozzy Osbourne
+DUDOSO Metallica|ReLoad → The Memory Remains / Metallica
+DUDOSO Black Sabbath|Dehumanizer → I / Black Sabbath
+DUDOSO Fight|War of Words → War of Words / Rob Halford
+DUDOSO Various Artists|Nativity in Black: A Tribute to Black Sabbath → Snowblind (System Of A Down) Nativity in Black (2000) A Tribute to Black Sabbath / L'orda di Metallo
+DUDOSO Brujeria|Matando Gueros → Brujeria - La Migra (Cruza La Frontera II) [OFFICIAL VIDEO] / Roadrunner Records
+DUDOSO At the Gates|Slaughter of the Soul → Slaughter of the Soul / atthegatesofficial
+DUDOSO Witchery|Dead, Hot and Ready → Dead, Hot and Ready (Remastered 2019) / $kull Gator
+METAL: 287 discos, 253 no están en music.db
+Traceback (most recent call last):
+  File "/home/huan/gits/pollo/Music_Books/Heavy_Metal_Weinstein/tools/covers.py", line 402, in <module>
+    main(*sys.argv[1:])
+    ~~~~^^^^^^^^^^^^^^^
+  File "/home/huan/gits/pollo/Music_Books/Heavy_Metal_Weinstein/tools/covers.py", line 345, in main
+    list(ex.map(do_release, enumerate(todo)))
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/concurrent/futures/_base.py", line 645, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/usr/lib/python3.14/concurrent/futures/_base.py", line 312, in _result_or_cancel
+    return fut.result(timeout)
+           ~~~~~~~~~~^^^^^^^^^
+  File "/usr/lib/python3.14/concurrent/futures/_base.py", line 454, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/concurrent/futures/_base.py", line 396, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.14/concurrent/futures/thread.py", line 86, in run
+    result = ctx.run(self.task)
+  File "/usr/lib/python3.14/concurrent/futures/thread.py", line 73, in run
+    return fn(*args, **kwargs)
+  File "/home/huan/gits/pollo/Music_Books/Heavy_Metal_Weinstein/tools/covers.py", line 342, in do_release
+    save()
+    ~~~~^^
+  File "/home/huan/gits/pollo/Music_Books/Heavy_Metal_Weinstein/tools/covers.py", line 319, in save
+    R.flush()
+    ~~~~~~~^^
+  File "/home/huan/gits/pollo/Music_Books/Heavy_Metal_Weinstein/tools/covers.py", line 297, in flush
+    self.con.executemany(f'INSERT OR REPLACE INTO {self.table} VALUES (?, ?, ?, ?)', rows)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked

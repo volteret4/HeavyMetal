@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="bfee7221-0f05-4ccd-9093-cad24181c79e" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.48.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Heavy Metal: The Music And Its Culture</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="2">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="text/part0001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="3">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src="text/part0002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="4">
+      <navLabel>
+        <text>Appreciation</text>
+      </navLabel>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="5">
+      <navLabel>
+        <text>Acknowledgments</text>
+      </navLabel>
+      <content src="text/part0005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="6">
+      <navLabel>
+        <text>1: Studying Metal: The Bricolage of Culture</text>
+      </navLabel>
+      <content src="text/part0006.html"/>
+      <navPoint class="chapter" id="num_6" playOrder="7">
+        <navLabel>
+          <text>A Cultural Sociology of Heavy Metal</text>
+        </navLabel>
+        <content src="text/part0006.html#ncx_8"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_7" playOrder="8">
+        <navLabel>
+          <text>Genre</text>
+        </navLabel>
+        <content src="text/part0006.html#ncx_9"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_8" playOrder="9">
+        <navLabel>
+          <text>Transaction</text>
+        </navLabel>
+        <content src="text/part0006.html#ncx_10"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="10">
+      <navLabel>
+        <text>2: Heavy Metal: The Beast that Refuses to Die</text>
+      </navLabel>
+      <content src="text/part0007.html"/>
+      <navPoint class="chapter" id="num_10" playOrder="11">
+        <navLabel>
+          <text>Rock History</text>
+        </navLabel>
+        <content src="text/part0007.html#ncx_12"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="12">
+        <navLabel>
+          <text>A Genealogy of Heavy Metal</text>
+        </navLabel>
+        <content src="text/part0007.html#ncx_13"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_12" playOrder="13">
+        <navLabel>
+          <text>The Eruption of Heavy Metal</text>
+        </navLabel>
+        <content src="text/part0007.html#ncx_14"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_13" playOrder="14">
+        <navLabel>
+          <text>The Code of Heavy Metal</text>
+        </navLabel>
+        <content src="text/part0007.html#ncx_15"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_14" playOrder="15">
+        <navLabel>
+          <text>The Fragmentation of Heavy Metal</text>
+        </navLabel>
+        <content src="text/part0007.html#ncx_19"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="16">
+      <navLabel>
+        <text>3: Making the Music: Metal Gods</text>
+      </navLabel>
+      <content src="text/part0008.html"/>
+      <navPoint class="chapter" id="num_16" playOrder="17">
+        <navLabel>
+          <text>The Code of Admission</text>
+        </navLabel>
+        <content src="text/part0008.html#ncx_24"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_17" playOrder="18">
+        <navLabel>
+          <text>The Band as a Social Unit</text>
+        </navLabel>
+        <content src="text/part0008.html#ncx_27"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="19">
+        <navLabel>
+          <text>The Production of Heavy Metal</text>
+        </navLabel>
+        <content src="text/part0008.html#ncx_28"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_19" playOrder="20">
+        <navLabel>
+          <text>Success</text>
+        </navLabel>
+        <content src="text/part0008.html#ncx_31"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="21">
+      <navLabel>
+        <text>4: Digging the Music: Proud Pariahs</text>
+      </navLabel>
+      <content src="text/part0009.html"/>
+      <navPoint class="chapter" id="num_21" playOrder="22">
+        <navLabel>
+          <text>The Core Audience and its Subculture</text>
+        </navLabel>
+        <content src="text/part0009.html#ncx_34"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_22" playOrder="23">
+        <navLabel>
+          <text>The Human Geography of Metal</text>
+        </navLabel>
+        <content src="text/part0009.html#ncx_40"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_23" playOrder="24">
+        <navLabel>
+          <text>The Elements of the Heavy Metal Subculture</text>
+        </navLabel>
+        <content src="text/part0009.html#ncx_41"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_24" playOrder="25">
+        <navLabel>
+          <text>The Solidarity of the Metal Subculture</text>
+        </navLabel>
+        <content src="text/part0009.html#ncx_45"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_25" playOrder="26">
+        <navLabel>
+          <text>Metal Style</text>
+        </navLabel>
+        <content src="text/part0009.html#ncx_46"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="27">
+      <navLabel>
+        <text>5: Transmitting the Music: Metal Media</text>
+      </navLabel>
+      <content src="text/part0010.html"/>
+      <navPoint class="chapter" id="num_27" playOrder="28">
+        <navLabel>
+          <text>Importance of the Media</text>
+        </navLabel>
+        <content src="text/part0010.html#ncx_48"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_28" playOrder="29">
+        <navLabel>
+          <text>Changes in the Media</text>
+        </navLabel>
+        <content src="text/part0010.html#ncx_49"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_29" playOrder="30">
+        <navLabel>
+          <text>Radio</text>
+        </navLabel>
+        <content src="text/part0010.html#ncx_50"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_30" playOrder="31">
+        <navLabel>
+          <text>MTV</text>
+        </navLabel>
+        <content src="text/part0010.html#ncx_51"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_31" playOrder="32">
+        <navLabel>
+          <text>Videos</text>
+        </navLabel>
+        <content src="text/part0010.html#ncx_52"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_32" playOrder="33">
+        <navLabel>
+          <text>Movies</text>
+        </navLabel>
+        <content src="text/part0010.html#ncx_53"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_33" playOrder="34">
+        <navLabel>
+          <text>Magazines</text>
+        </navLabel>
+        <content src="text/part0010.html#ncx_54"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_34" playOrder="35">
+        <navLabel>
+          <text>Concerts</text>
+        </navLabel>
+        <content src="text/part0010.html#ncx_55"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_35" playOrder="36">
+        <navLabel>
+          <text>Records and the Recording Industry</text>
+        </navLabel>
+        <content src="text/part0010.html#ncx_56"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_36" playOrder="37">
+        <navLabel>
+          <text>Conclusion</text>
+        </navLabel>
+        <content src="text/part0010.html#ncx_57"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="38">
+      <navLabel>
+        <text>6: The Concert: Metal Epiphany</text>
+      </navLabel>
+      <content src="text/part0011.html"/>
+      <navPoint class="chapter" id="num_38" playOrder="39">
+        <navLabel>
+          <text>Backstage Story</text>
+        </navLabel>
+        <content src="text/part0011.html#ncx_59"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_39" playOrder="40">
+        <navLabel>
+          <text>The Audience Gets Ready</text>
+        </navLabel>
+        <content src="text/part0011.html#ncx_60"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_40" playOrder="41">
+        <navLabel>
+          <text>Frontstage Story</text>
+        </navLabel>
+        <content src="text/part0011.html#ncx_61"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_41" playOrder="42">
+        <navLabel>
+          <text>Ecstasy</text>
+        </navLabel>
+        <content src="text/part0011.html#ncx_62"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_42" playOrder="43">
+        <navLabel>
+          <text>Representing the Subculture</text>
+        </navLabel>
+        <content src="text/part0011.html#ncx_63"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_43" playOrder="44">
+        <navLabel>
+          <text>Creating the Community</text>
+        </navLabel>
+        <content src="text/part0011.html#ncx_64"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_44" playOrder="45">
+        <navLabel>
+          <text>Bonding and Gratitude between the Artist and the Audience</text>
+        </navLabel>
+        <content src="text/part0011.html#ncx_65"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_45" playOrder="46">
+        <navLabel>
+          <text>The Concert as Hierophany</text>
+        </navLabel>
+        <content src="text/part0011.html#ncx_66"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_46" playOrder="47">
+        <navLabel>
+          <text>The Artists as Mediators of the Concert</text>
+        </navLabel>
+        <content src="text/part0011.html#ncx_67"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_47" playOrder="48">
+      <navLabel>
+        <text>7: Maligning the Music: Metal Detractors</text>
+      </navLabel>
+      <content src="text/part0012.html"/>
+      <navPoint class="chapter" id="num_48" playOrder="49">
+        <navLabel>
+          <text>Progressive Criticism</text>
+        </navLabel>
+        <content src="text/part0012.html#ncx_69"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_49" playOrder="50">
+        <navLabel>
+          <text>Conservative Criticism</text>
+        </navLabel>
+        <content src="text/part0012.html#ncx_70"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_50" playOrder="51">
+        <navLabel>
+          <text>Policing Heavy Metal</text>
+        </navLabel>
+        <content src="text/part0012.html#ncx_73"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_51" playOrder="52">
+        <navLabel>
+          <text>Discursive Terror</text>
+        </navLabel>
+        <content src="text/part0012.html#ncx_74"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_52" playOrder="53">
+      <navLabel>
+        <text>8: Metal in the ’90s</text>
+      </navLabel>
+      <content src="text/part0013.html"/>
+      <navPoint class="chapter" id="num_53" playOrder="54">
+        <navLabel>
+          <text>The Beast is Alive and Well, Below Billboard’s Radar</text>
+        </navLabel>
+        <content src="text/part0013.html#ncx_76"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_54" playOrder="55">
+        <navLabel>
+          <text>The Hydra-Headed Beast</text>
+        </navLabel>
+        <content src="text/part0013.html#ncx_77"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_55" playOrder="56">
+        <navLabel>
+          <text>The Beast is Back</text>
+        </navLabel>
+        <content src="text/part0013.html#ncx_78"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_56" playOrder="57">
+      <navLabel>
+        <text>Appendix A: Suggested Hearings</text>
+      </navLabel>
+      <content src="text/part0014.html"/>
+      <navPoint class="chapter" id="num_57" playOrder="58">
+        <navLabel>
+          <text>100 Definitive Metal Albums</text>
+        </navLabel>
+        <content src="text/part0014.html#ncx_80"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_58" playOrder="59">
+      <navLabel>
+        <text>Appendix B: Gender Preferences for Metal Subgenres</text>
+      </navLabel>
+      <content src="text/part0015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_59" playOrder="60">
+      <navLabel>
+        <text>Appendix C: Proportion of Heavy Metal Albums in Billboard’s Top 100</text>
+      </navLabel>
+      <content src="text/part0016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_60" playOrder="61">
+      <navLabel>
+        <text>Notes</text>
+      </navLabel>
+      <content src="text/part0017.html"/>
+      <navPoint class="chapter" id="num_61" playOrder="62">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0017.html#ncx_84"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_62" playOrder="63">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0017.html#ncx_85"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_63" playOrder="64">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0017.html#ncx_86"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_64" playOrder="65">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0017.html#ncx_87"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_65" playOrder="66">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0017.html#ncx_88"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_66" playOrder="67">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0017.html#ncx_89"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_67" playOrder="68">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0017.html#ncx_90"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_68" playOrder="69">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0017.html#ncx_91"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_69" playOrder="70">
+      <navLabel>
+        <text>References</text>
+      </navLabel>
+      <content src="text/part0018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_70" playOrder="71">
+      <navLabel>
+        <text>Index</text>
+      </navLabel>
+      <content src="text/part0019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_71" playOrder="72">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="text/part0020.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

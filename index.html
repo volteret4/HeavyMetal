@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Heavy metal: timeline</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Metal+Mania&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <a class="home" href="../index.html">← Todos los libros</a>
+    <h1>Heavy Metal <span>· la música y su cultura, según Deena Weinstein</span></h1>
+    <p class="sub">Timeline de géneros, escenas, medios y polémicas del metal, construido capítulo a capítulo a partir de <i>Heavy Metal: The Music and Its Culture</i> (Deena Weinstein; Da Capo Press, edición revisada), con citas del libro y vídeos de YouTube.</p>
+  </div>
+  <div class="progress" id="progress"></div>
+</header>
+
+<nav class="controls">
+  <input id="q" type="search" placeholder="Buscar escena, grupo, disco, tema…" autocomplete="off">
+  <button id="ftoggle" class="ftoggle" type="button" aria-expanded="false">Filtros</button>
+  <div class="views" role="tablist">
+    <button data-view="timeline" class="on">Timeline</button>
+    <button data-view="focus">Individual</button>
+    <button data-view="list">Escenas</button>
+    <button data-view="discs">Discos</button>
+    <button data-view="ess">Cien discos ★</button>
+    <button data-view="bych">Capítulos</button>
+    <button data-view="covers">Portadas</button>
+    <button data-view="mentions">Menciones</button>
+  </div>
+  <div class="families" id="families"></div>
+</nav>
+
+<main>
+  <section id="timeline" class="view on">
+    <p class="hint"><span class="mouse">Pasa el ratón por una escena para ver de dónde viene (líneas entrantes) y qué engendra (salientes). Clic para abrir la ficha; clic en una zona vacía para cerrarla.</span><span class="touch">Desliza para recorrer los años; toca una escena para abrir su ficha.</span></p>
+    <div class="scroller" id="scroller"><svg id="svg"></svg></div>
+  </section>
+  <section id="focus" class="view">
+    <div class="fbar">
+      <input id="fq" type="search" list="focus-names" placeholder="Elige una escena…" autocomplete="off">
+      <datalist id="focus-names"></datalist>
+      <button id="freset" type="button">Reiniciar</button>
+    </div>
+    <p class="hint" id="fhint">Escribe y elige una escena: verás de cuáles viene y a cuáles influye. Pulsa «+» en cualquiera de ellos para desplegar también sus relaciones; clic en una escena abre su ficha.</p>
+    <div class="scroller" id="fscroller"><svg id="fsvg"></svg></div>
+  </section>
+  <section id="list" class="view"></section>
+  <section id="discs" class="view discs"></section>
+  <section id="ess" class="view discs"></section>
+  <section id="bych" class="view discs"></section>
+  <section id="covers" class="view"></section>
+  <section id="mentions" class="view"></section>
+</main>
+
+<aside id="panel" aria-hidden="true">
+  <button class="close" id="close" aria-label="Cerrar">×</button>
+  <div id="detail"></div>
+</aside>
+
+<script src="data/core.js"></script>
+<!-- capitulos:inicio -->
+<script src="data/01-estudiar-el-metal.js"></script>
+<script src="data/02-la-bestia.js"></script>
+<script src="data/03-dioses-del-metal.js"></script>
+<script src="data/04-parias-orgullosos.js"></script>
+<script src="data/05-medios.js"></script>
+<script src="data/06-concierto.js"></script>
+<script src="data/07-detractores.js"></script>
+<script src="data/08-noventa.js"></script>
+<script src="data/09-cien-discos.js"></script>
+<!-- capitulos:fin -->
+<script src="data/refs.js"></script>
+<script src="data/pages.js"></script>
+<script src="data/yt.js"></script>
+<script src="data/covers.js"></script>
+<script src="covers.js"></script>
+<script src="menciones.js"></script>
+<script src="app.js"></script>
+<script src="vistas.js"></script>
+</body>
+</html>
