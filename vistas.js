@@ -19,3 +19,7 @@
   views.classList.add('hid');
   sync();
 })();
+
+// En GitHub Pages cada libro es un repo propio (volteret4.github.io/<repo>/) y la portada común vive
+// en el repo libros: los enlaces con data-pages llevan allí; abiertos en local, siguen siendo relativos.
+if (location.hostname.endsWith('github.io')) for (const a of document.querySelectorAll('a[data-pages]')) a.href = a.dataset.pages;
